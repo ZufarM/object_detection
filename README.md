@@ -1,4 +1,4 @@
-# object_detection
+# Object Detection
 Python 3.7.6
 
 Library Used
